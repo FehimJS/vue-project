@@ -5,9 +5,7 @@
 </script>
 
 <template>
- <div>
-  <h1>Pulse App!</h1>
- </div>
+ <router-view></router-view>
 </template>
 
 <style scoped>
